@@ -4,6 +4,11 @@
 
 Clone this repository and open your terminal in the project folder and install dependencies.
 
+```bash
+git clone https://github.com/0x566c6164/Frish-Task.git
+cd Frish-Task
+```
+
 In this example I used yarn, but npm will also work if you don't have yarn.
 
 Install dependencies
